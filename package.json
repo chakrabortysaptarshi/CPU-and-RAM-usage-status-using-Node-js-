@@ -1,0 +1,16 @@
+{
+  "name": "systemresourcemonitor",
+  "version": "1.0.0",
+  "description": "CPU, RAM and GPU status check",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "CPU",
+    "RAM"
+  ],
+  "author": "saptarshi",
+  "license": "ISC"
+}
